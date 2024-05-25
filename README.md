@@ -2,10 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instructions
 
 ### To Draw on Image Use Mouse or Touchpad to select edges and connect lines to see draw and selected edges in the image, and you can click on `Export as Image` button to download an updated image.
 
+
+
+## Available Scripts
 
 In the project directory, you can run:
 
