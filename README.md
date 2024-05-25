@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### To Draw the Image Use Mouse or Touchpad to select edges and connect lines and you can click on `Export as Image` button to download an updated image.
+### To Draw on Image Use Mouse or Touchpad to select edges and connect lines to see draw and selected edges in the image, and you can click on `Export as Image` button to download an updated image.
 
 
 In the project directory, you can run:
