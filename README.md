@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### To Draw on Image Use Mouse or Touchpad to select edges and connect lines to see draw and selected edges in the image, and you can click on `Export as Image` button to download an updated image.
 
+### Demo Image
 
+![roof-selection](https://github.com/jishanpathan7/jalan-assignment/assets/88240594/ce9bac20-9b6b-4666-8d36-ccb11760e3f1)
 
 ## Available Scripts
 
